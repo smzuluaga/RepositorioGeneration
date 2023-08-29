@@ -2,4 +2,6 @@ Primer archivo ejercicio git-github
 
 Primer cambio desde rama1
 
-Primer cambio desde rama 1_2
+Primer cambio desde rama 1_1
+
+Segundo cambio desde rama 1_1
